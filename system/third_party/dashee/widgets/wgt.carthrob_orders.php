@@ -7,7 +7,7 @@
  *
  * @package		ExpressionEngine
  * @subpackage	Addons
- * @category	Widget
+ * @category	Widgets
  * @author		Marc Miller
  * @link		http://bigoceanstudios.com
  */
